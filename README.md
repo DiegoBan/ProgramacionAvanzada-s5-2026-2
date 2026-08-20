@@ -1,2 +1,4 @@
 # ProgramacionAvanzada-s5-2026-2
-Repositorio para ayudantías de curso Programación Avanzada (CIT1110-02)
+Repositorio para ayudantías de curso Programación Avanzada (CIT1110-02) sección 5.
+- Profesor: Leandro LLanza.
+- Ayudantes: Diego Banda, Cristopher Vásquez
