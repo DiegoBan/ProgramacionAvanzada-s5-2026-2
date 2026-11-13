@@ -44,7 +44,7 @@ public class sorting {
         int l = 0;
         int r = arr.length - 1;
         while(l <= r){
-            mid = (l + r)/2;
+            int mid = (l + r)/2;
             if(arr[mid] == target){
                 return mid;
             }else if(arr[mid] < target){
